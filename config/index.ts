@@ -1,6 +1,6 @@
 import { AppInfo } from "@/types/app"
-export const APP_ID = ''
-export const API_KEY = ''
+export const APP_ID = 'c73550a8-4dee-4769-9e9f-ffd412a408c3'
+export const API_KEY = '<Web API Key From Dify>'
 export const API_URL = ''
 export const APP_INFO: AppInfo = {
   "title": 'Chat APP',
